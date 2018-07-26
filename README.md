@@ -2,6 +2,11 @@
 
 ## Introduction
 
+IGNORE EVERYTHING FROM NOW ON IN THIS README. THIS IS JUST AN EXPERIMENT TO TEST A GIT PROCEDURE. HAPPY CODING!
+
+![Image of agent 327](https://agent327.com/static/img/agent_barbershop_thumbnail_1280.jpg)
+
+
 This is my adaptation from the [ThinMatrix OpenGL 3D Game Tutorial](https://www.youtube.com/watch?v=VS8wlS9hF8E) from YouTube. It uses LWJGL 2 (there is a 3rd version available); however, this project is meant to introduce myself into the basics of the framework. Some 3D models will be developed by my sister with Blender. This project is not finished; and, it has mainly personal reference purposes. 
 
 ## Contributions
